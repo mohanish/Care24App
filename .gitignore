@@ -1,0 +1,11 @@
+/app/app.iml
+/core/core.iml
+/Care24App.iml
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
